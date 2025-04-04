@@ -24,18 +24,6 @@ The dataset includes YouTube statistics sourced from publicly available data. Th
 - **Average Views per Video** = Total Views / Total Videos
 - **Views per Subscriber** = Total Views / Total Subscribers
 
-## Setup Instructions
-1. Clone the repository:
-   ```sh
-   git clone <repository-url>
-   ```
-2. Navigate to the project folder:
-   ```sh
-   cd data-portfolio
-   ```
-3. Open the dashboard file in Power BI or your preferred data visualization tool.
-4. Add your personal photo and customize the portfolio as needed.
-
 ## Technologies Used
 - **Power BI** for data visualization
 - **DAX** for calculated metrics
